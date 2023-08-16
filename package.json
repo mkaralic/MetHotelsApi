@@ -1,0 +1,15 @@
+{
+  "name": "methotelsapi",
+  "version": "1.0.0",
+  "description": "Mock API for met hotels application IT255",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "json:server": "json-server --watch methotels.json"
+  },
+  "author": "Milorad Karalic 5247",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}

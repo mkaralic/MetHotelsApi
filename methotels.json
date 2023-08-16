@@ -1,0 +1,46 @@
+{
+  "rooms": [
+    {
+      "id": 1,
+      "roomNumber": 101,
+      "floor": 1,
+      "person": 2
+    },
+    {
+      "id": 2,
+      "roomNumber": 102,
+      "floor": 1,
+      "person": 2
+    },
+    {
+      "id": 3,
+      "roomNumber": 103,
+      "floor": 1,
+      "person": 3
+    },
+    {
+      "roomNumber": 201,
+      "floor": 2,
+      "person": 3,
+      "id": 4
+    },
+    {
+      "roomNumber": 202,
+      "floor": 2,
+      "person": 3,
+      "id": 5
+    },
+    {
+      "roomNumber": 203,
+      "floor": 2,
+      "person": 2,
+      "id": 7
+    },
+    {
+      "roomNumber": 301,
+      "floor": 3,
+      "person": 2,
+      "id": 8
+    }
+  ]
+}
