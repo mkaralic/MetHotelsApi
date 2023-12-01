@@ -41,12 +41,6 @@
       "floor": 3,
       "person": 2,
       "id": 8
-    },
-    {
-      "roomNumber": 302,
-      "floor": 3,
-      "person": 4,
-      "id": 9
     }
   ],
   "reservations": [
@@ -55,12 +49,6 @@
       "nights": 2,
       "amount": 9600,
       "id": 1
-    },
-    {
-      "room": 202,
-      "nights": 1,
-      "amount": 4800,
-      "id": 2
     }
   ]
 }
